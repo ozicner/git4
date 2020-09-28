@@ -1,0 +1,29 @@
+package bit.r45.first;
+
+import bit.r45.first.Student;
+
+public class Hello 
+{
+
+	public static void main(String[] args)
+	{
+		
+		
+		Student student;
+
+//       try {
+//		
+//	} catch (Exception e) {
+//		// TODO: Auto generating catch block
+//		printStackTrace(;)
+//	}
+       
+	   System.in.read("suround");
+		
+	   System.out.println("Hello");
+     
+       System.err.println("에러다 에러야");
+       
+	}
+	
+}

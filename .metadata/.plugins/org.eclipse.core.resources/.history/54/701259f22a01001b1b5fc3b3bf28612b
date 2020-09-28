@@ -1,0 +1,16 @@
+package bit.r45.first;
+
+public class Hello 
+{
+
+	public static void main(String[] args) {
+
+       System.out.println("Hello");
+     
+       System.err.println("에러다 에러야");
+       
+       System.
+       
+	}
+	
+}
